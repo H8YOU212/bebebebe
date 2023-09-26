@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\bebebebe\bebebebe\obj\Debug\net7.0\bebebebe.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\bebebebe\bebebebe\obj\Debug\net7.0\bebebebe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\bebebebe\bebebebe\obj\Debug\net7.0\bebebebe.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\bebebebe\bebebebe\obj\Debug\net7.0\bebebebe.AssemblyInfo.cs
+C:\Users\student\source\repos\bebebebe\bebebebe\obj\Debug\net7.0\bebebebe.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\bebebebe\bebebebe\bin\Debug\net7.0\bebebebe.exe
+C:\Users\student\source\repos\bebebebe\bebebebe\bin\Debug\net7.0\bebebebe.deps.json
+C:\Users\student\source\repos\bebebebe\bebebebe\bin\Debug\net7.0\bebebebe.runtimeconfig.json
+C:\Users\student\source\repos\bebebebe\bebebebe\bin\Debug\net7.0\bebebebe.dll
+C:\Users\student\source\repos\bebebebe\bebebebe\bin\Debug\net7.0\bebebebe.pdb
+C:\Users\student\source\repos\bebebebe\bebebebe\obj\Debug\net7.0\bebebebe.dll
+C:\Users\student\source\repos\bebebebe\bebebebe\obj\Debug\net7.0\refint\bebebebe.dll
+C:\Users\student\source\repos\bebebebe\bebebebe\obj\Debug\net7.0\bebebebe.pdb
+C:\Users\student\source\repos\bebebebe\bebebebe\obj\Debug\net7.0\bebebebe.genruntimeconfig.cache
+C:\Users\student\source\repos\bebebebe\bebebebe\obj\Debug\net7.0\ref\bebebebe.dll
